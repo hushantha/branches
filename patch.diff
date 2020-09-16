@@ -1,0 +1,41 @@
+From d9d416657829d93b7720f835fcb06e29f53d7144 Mon Sep 17 00:00:00 2001
+From: hushantha <hushantha@weblook.com>
+Date: Wed, 16 Sep 2020 23:31:57 +0530
+Subject: [PATCH] css update
+
+---
+ src/index.css  | 9 +++++++++
+ src/index.html | 2 +-
+ 2 files changed, 10 insertions(+), 1 deletion(-)
+
+diff --git a/src/index.css b/src/index.css
+index e69de29..b0cc9cb 100644
+--- a/src/index.css
++++ b/src/index.css
+@@ -0,0 +1,9 @@
++* {
++
++}
++html {
++
++}
++body {
++    
++}
+\ No newline at end of file
+diff --git a/src/index.html b/src/index.html
+index d01f779..e263a84 100644
+--- a/src/index.html
++++ b/src/index.html
+@@ -6,6 +6,6 @@
+     <title>Document</title>
+ </head>
+ <body>
+-    
++    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit debitis vel ex ea beatae! Laudantium officiis dolorum illum, ipsum quaerat libero itaque perspiciatis culpa doloribus, repellat fuga blanditiis ducimus incidunt alias. Itaque perferendis necessitatibus qui rerum alias architecto totam deleniti quis sequi quae adipisci quaerat eveniet enim, tempore quia repellendus voluptatem ratione culpa labore ipsum autem amet ipsa quidem est. Ratione eligendi quos temporibus! Nulla eaque voluptate ea delectus doloremque veritatis corrupti odit amet consectetur, velit totam labore aut enim modi veniam fugiat molestias quis atque! Obcaecati sequi suscipit ducimus, molestiae adipisci iste officiis. Error doloremque commodi nam assumenda dolorum? Vero veritatis accusamus repudiandae possimus minima iste unde cupiditate cumque mollitia commodi, eos odio suscipit excepturi reprehenderit expedita minus, eaque ipsa velit asperiores ratione, libero quos quam. Repellat debitis a qui iusto minima, rerum ut natus mollitia ullam placeat! Aliquam, sit voluptas, doloribus voluptate possimus quibusdam excepturi ea tenetur ratione sapiente quae! Illum consectetur hic voluptates, ad culpa nisi ut maiores odit sequi, nemo enim error? Consequuntur debitis sapiente error numquam placeat iusto, sed, mollitia laboriosam dolores eaque quos voluptatem accusamus tempore amet! Labore, adipisci maiores. Debitis vel officiis maiores consequatur, cumque tenetur necessitatibus repellendus voluptatibus laborum, iusto commodi velit!</p>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.25.1.windows.1
+
